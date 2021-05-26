@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-- title: Undergraduate Researcher
+  - title: Undergraduate Researcher
     company: Emory University
     location: Atlanta, GA
     date_start: '2021-05-1'
@@ -31,17 +31,17 @@ experience:
     
   - title: Tutor
     company: Mary Baldwin University 
-    location: Staunton, Virginia
+    location: Staunton, VA
     date_start: '2020-1-01'
     date_end: ''
 
-- title: Teaching Assistant, Calculus I
+  - title: Teaching Assistant, Calculus I
     company: Mary Baldwin University
-    location: Staunton, Virginia
+    location: Staunton, VA
     date_start: '2020-09-01'
     date_end: '2020-12-01'
     
-- title: Undergraduate Researcher
+  - title: Undergraduate Researcher
     company: Institute for Computational and Experimental Research in Mathematics, Brown University
     location: Providence, RI
     date_start: '2020-06-01'
@@ -49,7 +49,7 @@ experience:
         
   - title: Teaching Assistant, Precalculus
     company: Mary Baldwin University
-    location: Staunton, Virginia
+    location: Staunton, VA
     date_start: '2019-09-01'
     date_end: '2019-12-01'
 
