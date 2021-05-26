@@ -32,7 +32,7 @@ experience:
   - title: Tutor
     company: Mary Baldwin University 
     location: Staunton, VA
-    date_start: '2020-1-01'
+    date_start: '2020-01-01'
     date_end: ''
 
   - title: Teaching Assistant, Calculus I
