@@ -18,10 +18,11 @@ bio: Undergraduate student interested in the mathematical foundations of computa
 
 # Interests to show in About widget
 interests:
+- Scientific Computing
 - Computational Mathematics
+- Linear Algebra
+- Machine Learning
 - Imaging
-- Dimensionality Reduction
-- Mathematical Data Analysis
 - Applications in healthcare and space science
 
 # Education to show in About widget
