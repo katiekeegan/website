@@ -26,7 +26,7 @@ experience:
   - title: Undergraduate Researcher
     company: Emory University
     location: Atlanta, GA
-    date_start: '2021-05-1'
+    date_start: '2021-05-01'
     date_end: ''
     
   - title: Tutor
