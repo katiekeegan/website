@@ -24,14 +24,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_end: ""
-  date_start: "2022-05"
+  date_start: "2022-05-01"
   organization: Mary Baldwin University
   organization_url: https://marybaldwin.edu/academics/leadership-studies/
   title: Certificate - Leadership Studies
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-08"
+- date_end: ""
+  date_start: "2021-08-01"
   organization: edX
   organization_url: https://www.edx.org
   title: Course - Introduction to Deep Learning with Keras
