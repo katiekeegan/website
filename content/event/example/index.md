@@ -1,28 +1,21 @@
 ---
-title: Example Talk
+title: SVD and its Applications
 
-event: Wowchemy Conference
+event: Shenandoah Undergraduate Mathematics and Statistics Confernece
 event_url: https://example.org
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: James Madison University
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: My teammates and I present our research completed during Summer@ICERM at Brown University covering applications of the SVD in media processing, COVID-19 data analysis, and digital ownership protection.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+date: "2020-12-5"
+#date_end: "2030-06-01T15:00:00Z"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -42,7 +35,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=7OqSwOr_pbs&list=PL7DVZosgKrDYCKoTB0mEpAVGpBBv4IBHu&index=5"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
