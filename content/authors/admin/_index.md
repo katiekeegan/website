@@ -14,7 +14,7 @@ organizations:
   url: https://marybaldwin.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational mathematics, data analysis, and imaging.
+bio: Undergraduate student interested in applying mathematical and computational data analysis to real-world problems.
 
 # Interests to show in About widget
 interests:
@@ -59,8 +59,8 @@ email: ""
 highlight_name: false
 ---
 
-Hi! I'm a 17-year-old junior studying Applied Mathematics with minors in Physics and Leadership Studies at Mary Baldwin University. I am passionate about the computational and applied mathematics involved in the analysis of data, and am especially interested in problems related to healthcare and space science.
+Hi! I'm a 17-year-old junior studying Applied Mathematics with minors in Physics and Leadership Studies at Mary Baldwin University. I am interested in computational mathematics for data analysis and am especially passionate about problems related to healthcare and space science.
 
-I started college when I was 14 through Mary Baldwin University's Program for the Exceptionally Gifted, and am excited to soon be starting my senior year of college at MBU! I am especially looking forward to applying to PhD programs in applied math, data science, and artificial intelligence in Fall 2021.
+I started college at age 14 through the Program for the Exceptionally Gifted at MBU and will graduate college at age 18 next year. I am looking forward to applying to PhD programs in applied math, data science, and artificial intelligence in Fall 2021.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
