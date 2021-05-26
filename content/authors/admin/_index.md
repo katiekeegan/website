@@ -14,7 +14,7 @@ organizations:
   url: https://marybaldwin.edu/peg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Undergraduate student interested in applying mathematical and computational data analysis to real-world problems.
+bio: Undergraduate student interested in the mathematical foundations of computational approaches to data analysis.
 
 # Interests to show in About widget
 interests:
