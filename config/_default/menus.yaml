@@ -7,6 +7,9 @@ main:
   - name: Bio
     url: '#about'
     weight: 10
+  - name: Experience
+    url: '#experiences'
+    weight: 10
   - name: Talks
     url: '#talks'
     weight: 40
