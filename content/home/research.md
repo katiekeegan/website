@@ -2,8 +2,8 @@
 widget: blank
 headless: true
 
-weight: 15
-#title: Research
+weight: 21
+title: Research
 design:
   columns: '2'
   
