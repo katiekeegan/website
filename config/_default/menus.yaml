@@ -9,13 +9,13 @@ main:
     weight: 10
   - name: Research
     url: '#research'
-    weight: 10
+    weight: 11
   - name: News
     url: '#news'
-    weight: 10
+    weight: 12
   - name: Experience
     url: '#experience'
-    weight: 10
+    weight: 13
   - name: Talks
     url: '#talks'
     weight: 40
