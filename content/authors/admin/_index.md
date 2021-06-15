@@ -61,8 +61,8 @@ highlight_name: false
 
 Hello! 
 
-I am a third-year undergraduate studying applied math.
+I am a third-year undergraduate working on research in machine learning and computational data analysis.
 
-I plan on applying to PhD programs in applied math, data science, and artificial intelligence in Fall 2021.
+I plan on applying to PhD programs in Fall 2021.
 
 My extracurricular passions include accessibility and equity in K-12 education, languages/linguistics, scuba diving, and flying! I love the broader perspective that seeing the world from the sky brings.
