@@ -6,7 +6,7 @@ title: Katie Keegan
 superuser: true
 
 # Role/position/tagline
-role: Student in Applied Mathematics
+role: Applied Mathematics Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
