@@ -23,7 +23,6 @@ interests:
 - Linear Algebra
 - Machine Learning
 - Imaging
-- Applications in healthcare and space science
 
 # Education to show in About widget
 education:
@@ -60,8 +59,10 @@ email: ""
 highlight_name: false
 ---
 
-Hello! I am a third-year undergraduate studying Applied Mathematics with minors in Physics and Leadership Studies at Mary Baldwin University. 
+Hello! 
 
-I am looking forward to applying to PhD programs in applied math, data science, and artificial intelligence in Fall 2021.
+I am a third-year undergraduate studying applied math.
+
+I plan on applying to PhD programs in applied math, data science, and artificial intelligence in Fall 2021.
 
 My extracurricular passions include accessibility and equity in K-12 education, languages/linguistics, scuba diving, and flying! I love the broader perspective that seeing the world from the sky brings.
