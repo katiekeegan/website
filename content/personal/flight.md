@@ -17,6 +17,8 @@ I've been dreaming of going to space since I was 11, and thanks to funding from 
 
 MBU was kind enough to feature my adventures in the sky on page 26 of [this magazine!](https://issuu.com/marybaldwinu/docs/mbu_magazine-winter2020)
 
+Here's a triumphant photo after I finished my first solo flight: ![flight](flight.png "First time flying alone!")
+
 ## Art
 
 Before coming to MBU, I was an avid participant in student art and jazz music competitions. Since beginning college, I've enjoyed exploring these interests through an academic lens during some arts-related coursework. 
