@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 
-weight: 1
+weight: 2
 title: Flying
 design:
   columns: '1'
