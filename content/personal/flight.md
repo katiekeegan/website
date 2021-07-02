@@ -3,11 +3,15 @@ widget: blank
 headless: true
 
 weight: 2
-title: Flying
+title: Personal Interests
 design:
   columns: '1'
   
 ---
 
+I'm a big fan of this quote of Albert Einstein: "I have no special talents. I am only passionately curious." Here are a few of the things I like exploring in my free time!
 
-**May 2021:** Grateful to be a repicient of an [Advisory Board of Visitors Capstone Fellowship at MBU](https://marybaldwin.edu/news/2021/05/10/capstone-festival-celebrates-the-research-process/) to fund my senior thesis! I'm also super excited for the start of the [Computational Mathematics for Data Science 2021: Learning from Images REU/RET program.](http://www.mathcs.emory.edu/site/scicomp/REURET/)
+**Flying** 
+
+I've been dreaming of going to space since I was 11, and thanks to funding from Mary Baldwin University's Experiential Learning Grant, I was able to get a little closer to that goal. I'm currently working towards obtaining my private pilot certificate and have had the chance to take lessons in Cessna 150, Cessna 172, and Cirrus SR-22 aircraft. MBU was kind enough to feature my adventures in the sky on page 26 of [this magazine!](https://issuu.com/marybaldwinu/docs/mbu_magazine-winter2020)
+
