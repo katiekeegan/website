@@ -7,12 +7,11 @@ main:
   - name: Bio
     url: '#about'
     weight: 10
-[[main]]
   - name: Research
-    url: 'research/'
+    url: /research
     weight: 11
-  - name: [Experience] ({{< ref "experience/index.md" >}})
-    url: 'experience/'
+  - name: Experience
+    url: /experience
     weight: 14
 
  #Link to a PDF of your resume/CV from the menu.
