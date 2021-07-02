@@ -1,12 +1,14 @@
 
 ---
 title: Experience
-type: page
+type: widget_page
+headless: false
 
 header:
   caption: ""
   image: ""
 ---
+
 
 ---
 # An instance of the Experience widget.
