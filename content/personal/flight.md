@@ -21,7 +21,7 @@ Here's a triumphant photo after I finished my first solo flight: ![flight](fligh
 
 ## Art
 
-Before coming to MBU, I was an avid participant in student art and jazz music competitions, and I used to participate annually in National Novel Writing Month (hopefully I'll get to do some more creative writing again soon!). Since beginning college, I've enjoyed exploring these interests through an academic lens during some arts-related coursework. 
+Before coming to MBU, I was an avid participant in student art and jazz music competitions, and I used to participate annually in National Novel Writing Month (hopefully I'll get to do some more creative writing again soon!). Since beginning college, I've enjoyed exploring these interests through an academic lens.
 
 My favorite example of this is my Pinhole Photography course, during which I spent every day of MBU's three-week May Term taking photos using a black-box pinhole camera, developing the paper negatives in a dark room, and even creating my own "camera obscura". After studying imaging applications in my undergraduate math research experiences, I loved looking at photography through a more artistic lens (pardon the pun) through this course.
 
