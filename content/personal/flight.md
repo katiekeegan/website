@@ -29,4 +29,18 @@ Here is a link to some of my work from this class!
 
 ## Education
 
-## Reading
+My own path to college was a bit nontraditional: I ended up going to college right after middle school when I was 14 through MBU's Program for the Exceptionally Gifted. I'm not a huge fan of the term "gifted", but I am extremely passionate about accessibility and equity in K-12 education for students of all ages, levels, and passions. 
+
+Finding the PEG program was the culmination of a year of intensive research when I was in middle school, during which I devoured every book I could find on education approaches around the world (and tried to convince my parents to let me drop out of school and do just about any alternative schooling possible). In retrospect, I'm super happy to have gone to a public school and then transitioned to the diverse PEG program, where I got a much more well-rounded understanding of education and approaches that are appropriate for a broad range of students.
+
+I hope I'll get a chance to be a teacher at some point in the future and give back to the educational community that has been so instrumental in my development so far.
+
+Here are some of my favorite books on education, human growth, and learning in all forms!
+
+- Range by David Epstein
+- What School Could Be by Ted Dintersmith
+- Outliers by Malcolm Gladwell
+- Grasp by Sanjay Sarma
+
+## International Studies and Philosophy
+
