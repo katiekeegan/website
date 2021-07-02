@@ -37,10 +37,10 @@ I hope I'll get a chance to be a teacher at some point in the future and give ba
 
 Here are some of my favorite books on education, human growth, and learning in all forms!
 
-- Range by David Epstein
-- What School Could Be by Ted Dintersmith
-- Outliers by Malcolm Gladwell
-- Grasp by Sanjay Sarma
+- _Range_ by David Epstein
+- _What School Could Be_ by Ted Dintersmith
+- _Outliers_ by Malcolm Gladwell
+- _Grasp_ by Sanjay Sarma
 
 ## International Studies and Philosophy
 
