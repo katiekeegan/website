@@ -46,4 +46,7 @@ Here are some of my favorite books on education, human growth, and learning in a
 
 I've been extremely lucky to have spent around 2-3 months a year visiting my Japanese family for much of my life. Although I spend most of my life physically in the States, I'm extremely grateful for opportunities like spending some time attending classes in Japanese elementary and middle schools while they were in session during my family's visits, visiting famous religious sites in Izu and Kyoto, and taking coursework in Asian Gender Studies and Asian Art History at MBU.
 
-Having this international upbringing inspired me to learn more about the connections between cultures and global worldviews in college. I loved exploring the intersections of cultural diversity and philosophy through MBU courses like _Modern Thought: Global Justice_ and _Mediation and Conflict Resolution_.
+Having this international upbringing inspired me to learn more about the connections between cultures and global worldviews in college. I loved exploring the intersections of cultural diversity and philosophy through these wonderful MBU courses:
+-_Modern Political Thought: Global Justice_
+-_International Relations_
+-_Mediation and Conflict Resolution_
