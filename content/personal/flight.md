@@ -23,7 +23,7 @@ Here's a triumphant photo after I finished my first solo flight: ![flight](fligh
 
 Before coming to MBU, I was an avid participant in student art and jazz music competitions, and I used to participate annually in National Novel Writing Month (hopefully I'll get to do some more creative writing again soon!). Since beginning college, I've enjoyed exploring these interests through an academic lens during some arts-related coursework. 
 
-My favorite example of this is my Pinhole Photography course, during which I spent every day of MBU's three-week May Term taking photos using a black-box pinhole camera, developing the paper negatives in a dark room, and even creating my own "camera obscura". After studying imaging applications in my undergraduate math research experiences, I loved looking at photography through an artistic lens (partdon the pun) through this course.
+My favorite example of this is my Pinhole Photography course, during which I spent every day of MBU's three-week May Term taking photos using a black-box pinhole camera, developing the paper negatives in a dark room, and even creating my own "camera obscura". After studying imaging applications in my undergraduate math research experiences, I loved looking at photography through an artistic lens (pardon the pun) through this course.
 
 Here is a link to some of my work from this class!
 
@@ -44,3 +44,6 @@ Here are some of my favorite books on education, human growth, and learning in a
 
 ## International Studies and Philosophy
 
+I've been extremely lucky to have spent around 2-3 months a year visiting my Japanese family for much of my life. Although I spend most of my life physically in the States, I'm extremely grateful for opportunities like spending some time attending classes in Japanese elementary and middle schools while they were in session during my family's visits, visiting famous religious sites in Izu and Kyoto, and taking coursework in Asian Gender Studies and Asian Art History at MBU.
+
+Having this international upbringing inspired me to learn more about the connections between cultures and global worldviews in college. I loved exploring the intersections of cultural diversity and philosophy through MBU courses like _Modern Thought: Global Justice_ and _Mediation and Conflict Resolution_.
