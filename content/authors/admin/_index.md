@@ -61,7 +61,7 @@ highlight_name: false
 
 Hello! 
 
-I am a third-year undergraduate working on research in machine learning and computational data analysis.
+I am a third-year undergraduate interested in machine learning and computational data analysis.
 
 I plan on applying to PhD programs in Fall 2021.
 
