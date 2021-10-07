@@ -64,5 +64,3 @@ Hello!
 I am a third-year undergraduate interested in machine learning and computational data analysis.
 
 I plan on applying to PhD programs in Fall 2021.
-
-My extracurricular passions include accessibility and equity in K-12 education, languages/linguistics, scuba diving, and flying! I love the broader perspective that seeing the world from the sky brings.
