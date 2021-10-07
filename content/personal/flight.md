@@ -7,16 +7,18 @@ title: Personal Interests
 design:
   columns: '1'
   
+gallery_item:
+- album: <ALBUM FOLDER>
+  image: <IMAGE 1 NAME>.jpg
+  caption: Write your image 1 caption here
+  
 ---
 
 ## Flying
 
 I've been dreaming of going to space since I was 11, and thanks to funding from Mary Baldwin University's Experiential Learning Grant, I was able to get a little closer to that goal. I'm currently working towards obtaining my private pilot certificate and have had the chance to take lessons in Cessna 150, Cessna 172, and Cirrus SR-22 aircraft. 
 
-gallery_item:
-- album: flight
-  image: IMG_9828.png
-  caption: Write your image 1 caption here
+{{< gallery album="<ALBUM-FOLDER>" >}}
 
 Here's a triumphant photo after I finished my first solo flight: ![flight](flight.png "First time flying alone!")
 
