@@ -9,14 +9,14 @@ design:
   
 gallery_item:
 - album: flight
-  image: IMG_9828.png
+  image: IMG_9828.jpg
   caption: Write your image 1 caption here
   
 ---
 
 ## Flying
 
-I've been dreaming of going to space since I was 11, and thanks to funding from Mary Baldwin University's Experiential Learning Grant, I was able to get a little closer to that goal. I'm currently working towards obtaining my private pilot certificate and have had the chance to take lessons in Cessna 150, Cessna 172, and Cirrus SR-22 aircraft. 
+Thanks to funding from Mary Baldwin University's Experiential Learning Grant, I'm currently working towards obtaining my private pilot certificate and have had the chance to take lessons in Cessna 150, Cessna 172, and Cirrus SR-22 aircraft. 
 
 {{< gallery album="flight" >}}
 
