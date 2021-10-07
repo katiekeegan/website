@@ -14,15 +14,9 @@ design:
 
 Thanks to funding from Mary Baldwin University's Experiential Learning Grant, I'm currently working towards obtaining my private pilot certificate and have had the chance to take lessons in Cessna 150, Cessna 172, and Cirrus SR-22 aircraft. 
 
-{{< gallery >}}
-
-Here's a triumphant photo after I finished my first solo flight: ![flight](flight.png "First time flying alone!")
-
 ## Education
 
 My own educational journey is a little nontraditional: I ended up going to college right after middle school when I was 14 through MBU's Program for the Exceptionally Gifted. I'm not a huge fan of the term "gifted", but I am extremely passionate about accessibility and equity in K-12 education for students of all ages, levels, and passions. 
-
-I'm super happy to have gone to a public school and then transitioned to the diverse PEG program, where I got a much more well-rounded understanding of education and approaches that are appropriate for a broad range of students.
 
 Here are some of my favorite education books!
 
