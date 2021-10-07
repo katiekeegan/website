@@ -5,7 +5,7 @@ headless: true
 weight: 2
 title: Personal Interests
 design:
-  columns: '1'
+  columns: '2'
   
 
 ---
@@ -14,7 +14,7 @@ design:
 
 Thanks to funding from Mary Baldwin University's Experiential Learning Grant, I'm currently working towards obtaining my private pilot certificate and have had the chance to take lessons in Cessna 150, Cessna 172, and Cirrus SR-22 aircraft. 
 
-{{< gallery>}}
+{{< flight >}}
 
 Here's a triumphant photo after I finished my first solo flight: ![flight](flight.png "First time flying alone!")
 
