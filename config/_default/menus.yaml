@@ -13,15 +13,13 @@ main:
   - name: Experience
     url: experience/
     weight: 14
-  - name: Portfolio
-    url: portfolio/
-    weight: 20
   - name: Personal
     url: personal/
     weight: 40
+  - name: CV
+    url: cv/
+    weight: 70
 
  #Link to a PDF of your resume/CV from the menu.
  #To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: CV
-    url: uploads/resume.pdf
-    weight: 70
+
