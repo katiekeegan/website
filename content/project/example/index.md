@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Screenshot from paper
   focal_point: Smart
 
 
@@ -26,3 +26,4 @@ url_video: ""
 slides: example
 ---
 
+Final project for MATH 306: Ordinary Diff. Eq. Modeled effects of elevator deflection on a Boeing-747 under cruise flight conditions using the Simulink Aerospace Blockset in MATLAB. Reported results and provided a mathematical analytical illustration of this control perturbation’s effect on the system in a final paper.
