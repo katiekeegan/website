@@ -1,6 +1,6 @@
 ---
 title: Modeling Aircraft Elevator Deflection
-summary: An example of using the in-built project page.
+summary: Final Project for MATH 306: Ordinary Differential Equations
 tags:
 - courseprojects
 date: "2016-04-27T00:00:00Z"
