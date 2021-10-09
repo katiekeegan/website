@@ -59,8 +59,8 @@ email: ""
 highlight_name: false
 ---
 
-Hello! 
+Hi! 
 
-I am a third-year undergraduate interested in machine learning and computational data analysis.
+I am a fourth-year undergraduate interested in applied math and computational data analysis. 
 
-I plan on applying to PhD programs in Fall 2021.
+I will be graduating in May 2022.
