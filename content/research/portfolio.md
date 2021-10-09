@@ -3,6 +3,11 @@ headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 
+weight: 65
+
+title: Projects
+subtitle: 
+
 content:
   # Page type to display. E.g. project.
   page_type: project
