@@ -32,4 +32,3 @@ Having this international upbringing inspired me to learn more about the connect
 - _International Relations_
 - _Mediation and Conflict Resolution_
 - _Intercultural Communication_
-- _Japan and Globalization: A Cultural Approach_
