@@ -25,7 +25,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Undergraduate Researcher
+  - title: Undergraduate Research Fellow
     company: Emory University
     location: Atlanta, GA
     date_start: '2021-05-01'
@@ -43,7 +43,7 @@ experience:
     date_start: '2020-09-01'
     date_end: '2020-12-01'
     
-  - title: Undergraduate Researcher
+  - title: Undergraduate Research Fellow
     company: Institute for Computational and Experimental Research in Mathematics, Brown University
     location: Providence, RI
     date_start: '2020-06-01'
