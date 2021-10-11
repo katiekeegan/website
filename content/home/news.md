@@ -13,7 +13,7 @@ design:
 
 **September 2021:** Our [Summer@ICERM 2020](https://icerm.brown.edu/summerug/2020/) work was published in SIAM Undergraduate Research Online and can be found [here!](https://www.siam.org/Portals/0/Documents/S141166PDF.pdf?ver=2021-09-23-070730-093) I'm also honored to be selected for [Google's Computer Science Research Mentorship Program!](https://research.google/outreach/csrmp/)
 
-**August 2021:** Excited for the start of [Kansai Gaidai University's home-based study abroad program](https://www.kansaigaidai.ac.jp/asp/) (one of MBU's partner schools in Japan and my mom's alma mater)! I'll be taking the course [Japan & Globalization: A Cultural Approach](https://www.kansaigaidai.ac.jp/asp/files/academics/course-syllabi/fall-semester-2021/CUS2F21.pdf) for credit this fall!
+**August 2021:** Excited for the start of [Kansai Gaidai University's home-based study abroad program](https://www.kansaigaidai.ac.jp/asp/) (one of MBU's partner schools in Japan)! I'll be taking the course [Japan & Globalization: A Cultural Approach](https://www.kansaigaidai.ac.jp/asp/files/academics/course-syllabi/fall-semester-2021/CUS2F21.pdf) for credit this fall!
 
 **July 2021:** Gave a talk on my team's work at [Summer@ICERM 2020](https://icerm.brown.edu/summerug/2020/) during the [SIAM Annual Meeting Undergraduate Research Presentations!](https://sinews.siam.org/Details-Page/call-for-submissions-undergraduate-research-presentations-at-the-2021-siam-annual-meeting-an21-2)
 
