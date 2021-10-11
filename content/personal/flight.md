@@ -25,7 +25,7 @@ My own educational journey is a little nontraditional. My experiences with other
 
 ## International Studies and Philosophy
 
-I've been very lucky to have spent around 2-3 months a year visiting my Japanese family for much of my life. I've also been fortunate to spend time attending Japanese kindergarten, elementary school, and middle school for periods of time in Fujinomiya, Shizuoka.
+I've been very lucky to have spent around 2-3 months a year visiting my Japanese family for much of my life. I've also been fortunate to attend kindergarten, elementary school, and middle school for periods of time in Fujinomiya, Shizuoka.
 
 Having this international upbringing inspired me to learn more about the connections between cultures and global worldviews in college. I love exploring the intersections of cultural diversity, philosophy, and history through MBU courses such as these:
 - _Modern Political Thought: Global Justice_
