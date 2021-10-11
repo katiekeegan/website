@@ -63,4 +63,4 @@ Hi!
 
 I am a fourth-year undergraduate interested in applied math and computational data analysis. 
 
-I will be graduating in May 2022.
+I started college at 14 through the [Program for the Exceptionally Gifted](https://marybaldwin.edu/peg/) and will graduate college in May 2022 at age 18.
