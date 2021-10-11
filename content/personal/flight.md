@@ -16,9 +16,7 @@ Thanks to funding from Mary Baldwin University's Experiential Learning Grant, I'
 
 ## Education
 
-My own educational journey is a little nontraditional: I ended up going to college right after middle school when I was 14 through MBU's Program for the Exceptionally Gifted. I'm not a huge fan of the term "gifted", but I am extremely passionate about accessibility and equity in K-12 education for students of all ages, levels, and passions. 
-
-Here are some of my favorite education books!
+My own educational journey is a little nontraditional, and my experiences with others who have traveled unique educationap paths have made me extremely passionate about accessibility and equity in K-12 education and beyond. Here are some of my favorite education books!
 
 - _Range_ by David Epstein
 - _What School Could Be_ by Ted Dintersmith
@@ -27,9 +25,11 @@ Here are some of my favorite education books!
 
 ## International Studies and Philosophy
 
-I've been extremely lucky to have spent around 2-3 months a year visiting my Japanese family for much of my life. Although I spend most of my life physically in the States, I'm extremely grateful for opportunities like briefly attending Japanese elementary and middle school and taking coursework in Asian Gender Studies and Asian Art History at MBU.
+I've been extremely lucky to have spent around 2-3 months a year visiting my Japanese family for much of my life. Although I'm usually physically in the States, I'm extremely grateful for opportunities like briefly attending Japanese public kindergarten, elementary school, and middle school, as well as recently taking coursework in Asian Gender Studies and Asian Art History at MBU.
 
 Having this international upbringing inspired me to learn more about the connections between cultures and global worldviews in college. I loved exploring the intersections of cultural diversity and philosophy through these MBU courses:
 - _Modern Political Thought: Global Justice_
 - _International Relations_
 - _Mediation and Conflict Resolution_
+- _Intercultural Communication_
+- _Japan and Globalization: A Cultural Approach_
