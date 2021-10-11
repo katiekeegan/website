@@ -29,7 +29,7 @@ experience:
     company: Emory University
     location: Atlanta, GA
     date_start: '2021-05-01'
-    date_end: ''
+    date_end: '2021-07-30'
     
   - title: Tutor
     company: Mary Baldwin University 
