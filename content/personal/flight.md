@@ -12,7 +12,7 @@ design:
 
 ## Flying
 
-Thanks to funding from Mary Baldwin University's Experiential Learning Grant, I'm currently working towards obtaining my private pilot certificate and have had the chance to take lessons in Cessna 150, Cessna 172, and Cirrus SR-22 aircraft. 
+Thanks to funding from [Mary Baldwin University's Experiential Learning Grant](https://marybaldwin.edu/academics/experiential-learning-grants/), I'm currently working towards obtaining my private pilot certificate and have had the chance to take lessons in Cessna 150, Cessna 172, and Cirrus SR-22 aircraft. 
 
 ## Education
 
