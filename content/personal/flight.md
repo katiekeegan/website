@@ -16,7 +16,7 @@ Thanks to funding from Mary Baldwin University's Experiential Learning Grant, I'
 
 ## Education
 
-My own educational journey is a little nontraditional. My experiences with others who have traveled unique educationap paths have made me passionate about accessibility and equity in K-12 education and beyond. Here are some of my favorite education books!
+My own educational journey is a little nontraditional, and learning from others who have traveled unique educational paths has made me passionate about accessibility and equity in K-12 education. Here are some of my favorite education books!
 
 - _Range_ by David Epstein
 - _What School Could Be_ by Ted Dintersmith
