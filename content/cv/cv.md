@@ -48,5 +48,4 @@ A copy of my CV can be found here. Highlights are described below.
 
 ## Skills
 - **Technical:** 
-- **Other:** 
-
+- **Other:**  Fluent in Japanese
