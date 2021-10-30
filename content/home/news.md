@@ -9,7 +9,7 @@ design:
   
 ---
 
-**October 2021:** Our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work was accepted to be presented at the [Council for Undergraduate Resarch REU Symposium](https://www.cur.org/what/events/students/reu/reu_symposium_2021/) and [University of Connecticut's Mathematics Continued Conference](https://mcc.math.uconn.edu/abstracts/) this month!
+**October 2021:** Our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work was accepted to be presented at the [Council for Undergraduate Resarch REU Symposium](https://www.cur.org/what/events/students/reu/reu_symposium_2021/) and the [University of Connecticut's Mathematics Continued Conference](https://mcc.math.uconn.edu/abstracts/) this month! We will also be presenting at the [AMS-PME Student Poster Session at the Joint Mathematics Meetings 2022!](https://www.jointmathematicsmeetings.org/meetings/national/jmm2022/2268_posters)
 
 **September 2021:** Our [Summer@ICERM 2020](https://icerm.brown.edu/summerug/2020/) work was published in SIAM Undergraduate Research Online and can be found [here!](https://www.siam.org/Portals/0/Documents/S141166PDF.pdf?ver=2021-09-23-070730-093) I'm also honored to be selected for [Google's Computer Science Research Mentorship Program!](https://research.google/outreach/csrmp/)
 
