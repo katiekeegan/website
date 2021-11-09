@@ -9,7 +9,7 @@ design:
   
 ---
 
-**November 2021:** Our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work has been submitted to SIURO and is [available on arXiv!](https://arxiv.org/abs/2111.00587) Our [Summer@ICERM 2020](https://icerm.brown.edu/summerug/2020/) work was also featured in an [article for SIAM News!](https://sinews.siam.org/Details-Page/a-modified-watermarking-scheme-based-on-the-singular-value-decomposition)
+**November 2021:** Our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work has been submitted to SIURO and is [available on arXiv!](https://arxiv.org/abs/2111.00587) We will be presenting this work at the [Undergraduate Mathematics Symposium at UIC.](https://homepages.math.uic.edu/ums/) Our [Summer@ICERM 2020](https://icerm.brown.edu/summerug/2020/) work was also featured in an [article for SIAM News!](https://sinews.siam.org/Details-Page/a-modified-watermarking-scheme-based-on-the-singular-value-decomposition)
 
 **October 2021:** Our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work was accepted to be presented at the [Council for Undergraduate Research REU Symposium](https://www.cur.org/what/events/students/reu/reu_symposium_2021/) and the [University of Connecticut's Mathematics Continued Conference](https://mcc.math.uconn.edu/abstracts/) this month! We will also be presenting at the [Joint Mathematics Meetings 2022 AMS-PME Student Poster Session!](https://www.jointmathematicsmeetings.org/meetings/national/jmm2022/2268_posters) 
 
