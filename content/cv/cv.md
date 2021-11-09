@@ -25,6 +25,7 @@ A copy of my CV can be found here. Highlights are described below.
 - Mathematics & Programming
 - History of Mathematics
 - Senior Seminar
+- Theory of Computation (Spring 2022)
 
 ### Science
 - Materials Science
@@ -39,6 +40,8 @@ A copy of my CV can be found here. Highlights are described below.
 - Barry Goldwater Scholarship Nominee
 - Google Computer Science Research Mentorship Scholar
 - MBU Advisory Board of Visitors Capstone Fellowship (funding for senior thesis based upon project proposal)
+- MBU Experiential Learning Grant (youngest awardee during freshman year)
+- MBU Presidential Scholarship (highest merit scholarship provided to incoming freshmen)
 
 ### Honor Societies
 - Sigma Pi Sigma National Physics Honor Society
