@@ -8,7 +8,7 @@ design:
   columns: '2'
   
 ---
-A copy of my CV can be found {{% staticref "content/cv/KatherineKeeganCV_2021_November.pdf" "newtab" %}}here.{{% /staticref %}} Highlights are described below.
+A copy of my CV can be found {{% staticref "uploads/KatherineKeeganCV_2021_November.pdf" "newtab" %}}here.{{% /staticref %}} Highlights are described below.
 
 ## Courses
 ### Math
