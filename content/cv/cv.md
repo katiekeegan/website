@@ -50,5 +50,5 @@ A copy of my CV can be found {{% staticref "uploads/KatherineKeeganCV_2021_Novem
 - Alpha Lambda Delta National First Year Honor Society
 
 ## Skills
-- **Technical:** 
+- **Technical:** LaTeX, GitHub, Google Cloud Platform, Linux, introductory Matlab
 - **Other:**  Fluent in Japanese
