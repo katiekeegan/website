@@ -25,7 +25,7 @@ My own educational journey is a little nontraditional and has made me passionate
 
 ## International Studies and Philosophy
 
-I've been very lucky to have spent around 2-3 months a year visiting my Japanese family for much of my life, during which I attended kindergarten, elementary school, and middle school in Fujinomiya, Shizuoka.
+I've been very lucky to have spent around 2-3 months a year visiting my Japanese family for much of my life, during which I briefly attended kindergarten, elementary school, and middle school in Fujinomiya, Shizuoka.
 
 Having this international upbringing inspired me to study Asian history, philosophy, and globalization topics through MBU courses such as these:
 - _Modern Political Thought: Global Justice_
