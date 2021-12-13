@@ -12,7 +12,7 @@ design:
 
 ## Flying
 
-Thanks to funding from [Mary Baldwin University's Experiential Learning Grant](https://marybaldwin.edu/academics/experiential-learning-grants/), I'm currently working towards obtaining my private pilot certificate and have taken lessons in Cessna 150, Cessna 172, and Cirrus SR-22 aircraft. 
+Thanks to funding from [Mary Baldwin University's Experiential Learning Grant](https://marybaldwin.edu/academics/experiential-learning-grants/), I have obtained a private pilot license and have taken lessons in Cessna 150, Cessna 172, and Cirrus SR-22 aircraft.
 
 ## Education
 
@@ -25,12 +25,15 @@ My own educational journey is a little nontraditional and has made me passionate
 
 ## International Studies and Philosophy
 
-I've been very lucky to have spent around 2-3 months a year visiting my Japanese family for much of my life. I've also been fortunate to attend kindergarten, elementary school, and middle school for periods of time in Fujinomiya, Shizuoka.
+I've been very lucky to have spent around 2-3 months a year visiting my Japanese family for much of my life, during which I attended kindergarten, elementary school, and middle school in Fujinomiya, Shizuoka.
 
-Having this international upbringing inspired me to learn more about the intersections of cultural diversity, philosophy, and history through MBU courses such as these:
+Having this international upbringing inspired me to study Asian history, philosophy, and globalization topics through MBU courses such as these:
 - _Modern Political Thought: Global Justice_
 - _International Relations_
 - _Mediation and Conflict Resolution_
 - _Intercultural Communication_
+- _Politics of Food_
 - _Gender in Asian Cultures_
 - _Asian Art History_
+- _Buddhism_
+- _Japan and Globalization: A Cultural Approach_
