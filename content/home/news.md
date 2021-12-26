@@ -8,15 +8,13 @@ design:
   columns: '2'
   
 ---
-**December 2021:** We presented our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work in a talk and poster at the [JMU SUMS 2021 conference.](https://www.jmu.edu/mathstat/sums/index.shtml)
+**December 2021:** We presented our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work in a talk and poster at the [JMU SUMS 2021 conference](https://www.jmu.edu/mathstat/sums/index.shtml) and were accepted to present at the [National College Research Conference.](https://www.hcura.org/about-ncrc) Also grateful to receive an [Undergraduate Travel Grant for JMM!](http://www.ams.org/programs/travel-grants/undergrad-tg)
 
 **November 2021:** Our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work has been submitted to SIURO and is [available on arXiv!](https://arxiv.org/abs/2111.00587) We will be presenting this work at the [Undergraduate Mathematics Symposium at UIC.](https://homepages.math.uic.edu/ums/) Our [Summer@ICERM 2020](https://icerm.brown.edu/summerug/2020/) work was also featured in an [article for SIAM News!](https://sinews.siam.org/Details-Page/a-modified-watermarking-scheme-based-on-the-singular-value-decomposition)
 
 **October 2021:** Our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work was accepted to be presented at the [Council for Undergraduate Research REU Symposium](https://www.cur.org/what/events/students/reu/reu_symposium_2021/) and the [University of Connecticut's Mathematics Continued Conference](https://mcc.math.uconn.edu/abstracts/) this month! We will also be presenting at the [Joint Mathematics Meetings 2022 AMS-PME Student Poster Session!](https://www.jointmathematicsmeetings.org/meetings/national/jmm2022/2268_posters) 
 
 **September 2021:** Our [Summer@ICERM 2020](https://icerm.brown.edu/summerug/2020/) work was published in SIAM Undergraduate Research Online (SIURO) and can be found [here!](https://www.siam.org/Portals/0/Documents/S141166PDF.pdf?ver=2021-09-23-070730-093) I'm also honored to be selected for [Google's Computer Science Research Mentorship Program!](https://research.google/outreach/csrmp/)
-
-**August 2021:** Excited for the start of [Kansai Gaidai University's home-based study abroad program](https://www.kansaigaidai.ac.jp/asp/) (one of MBU's partner schools in Japan)! I'll be taking the course [Japan & Globalization: A Cultural Approach](https://www.kansaigaidai.ac.jp/asp/files/academics/course-syllabi/fall-semester-2021/CUS2F21.pdf) for credit this fall!
 
 **July 2021:** Gave a talk on my team's work at [Summer@ICERM 2020](https://icerm.brown.edu/summerug/2020/) during the [SIAM Annual Meeting Undergraduate Research Presentations!](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=72454&_ga=2.67741394.2145847893.1636412397-1332685511.1599444745) 
 
