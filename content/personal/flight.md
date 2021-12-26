@@ -25,9 +25,7 @@ My own educational journey is a little nontraditional and has made me passionate
 
 ## International Studies and Philosophy
 
-I've been fortunate to have spent around 2-3 months a year visiting my Japanese family for much of my life, during which I briefly attended kindergarten, elementary school, and middle school in Fujinomiya, Shizuoka. I am a dual citizen of Japan and America.
-
-Having this international upbringing inspired me to take MBU courses such as these:
+I've been fortunate to have spent around 2-3 months a year visiting my Japanese family for much of my life, during which I briefly attended kindergarten, elementary school, and middle school in Fujinomiya, Shizuoka. These experiences inspired me to take MBU courses such as these:
 - _Modern Political Thought: Global Justice_
 - _International Relations_
 - _Mediation and Conflict Resolution_
