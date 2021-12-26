@@ -10,6 +10,10 @@ design:
 ---
 A copy of my CV can be found {{% staticref "uploads/KatherineKeeganCV_2021_November.pdf" "newtab" %}}here.{{% /staticref %}} Highlights are described below.
 
+- GPA: 4.00/4.00
+- Major: Applied Mathematics
+- Minors: Physics, Asian Studies
+
 ## Courses
 ### Math
 - Calculus I & II
@@ -36,6 +40,7 @@ A copy of my CV can be found {{% staticref "uploads/KatherineKeeganCV_2021_Novem
 
 ## Awards and Honors
 ### Selected Awards
+- AMS JMM Student Travel Grant
 - MBU First Year Calculus Award (given to the freshman with highest average in Calculus I & II sequence)
 - Barry Goldwater Scholarship Nominee
 - Google Computer Science Research Mentorship Scholar
