@@ -25,6 +25,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Through the Baldwin Honors Scholars program at Mary Baldwin University, I chose to take Linear Algebra as an honors course, where I completed an additional honors project under the supervision of the professor.
+Through the Baldwin Honors Scholars program at Mary Baldwin University, I chose to take Linear Algebra as an honors course, where I completed an additional honors project under the supervision of the professor. 
 
 My project focused on studying Hilbert spaces, a topic not usually covered in the course. After reviewing relevant literature and mathematical work, I completed a final paper discussing Hilbert spaces, mainly focusing on mathematical properties and limits and norms in Hilbert spaces. My study of Hilbert spaces also included an overview of some interesting applications of Hilbert spaces in music, color science, and quantum mechanics. 
+
+My project was completed over the course of the semester with regular meetings with the supervising professor, and was ultimately submitted to the supervising professor and the honors program coordinator.
