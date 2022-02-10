@@ -8,7 +8,7 @@ design:
   columns: '2'
   
 ---
-**February 2022:** We will be presenting our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [2022 Georgia Scientific Computing Symposium at Georgia Tech](https://math.gatech.edu/news/georgia-scientific-computing-symposium). Excited to visit Atlanta!
+**February 2022:** We will be presenting our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [2022 Georgia Scientific Computing Symposium at Georgia Tech](https://comp-physics.group/GSCS22/). Excited to visit Atlanta!
 
 **January 2022:** We presented our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [National College Research Conference.](https://www.hcura.org/about-ncrc)
 
