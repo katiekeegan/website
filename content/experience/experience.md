@@ -31,6 +31,7 @@ experience:
     date_start: '2021-05-01'
     date_end: '2021-07-30'
     description: >-
+    
         * One of approximately 20 students selected for undergraduate research projects in computational mathematics
         * Contributed heavily to code, final manuscript writing, and presentations
         * Attended [weekly seminars](http://www.math.emory.edu/site/cmds-reuret/summer2021/) on topics such as scientific writing, algorithmic bias, and public scholarship
@@ -41,6 +42,7 @@ experience:
     date_start: '2020-01-01'
     date_end: ''
     description: >-
+    
         * Providing individualized academic support and tutoring through MBU's Academic Resource Center
         * Regularly referred by ARC director to students in need o math help
         * Available to assist in Mathematics, Physics, Japanese, French, and Writing courses
@@ -51,6 +53,7 @@ experience:
     date_start: '2020-09-01'
     date_end: '2020-12-01'
     description: >-
+    
         * Graded homework for 50+ students weekly
         * Held highly-attended virtual exam review sessions prior to exams
         * Regularly communicated with the class via email regarding grading and homework help
@@ -64,6 +67,7 @@ experience:
     date_start: '2020-06-01'
     date_end: '2020-07-01'
     description: >-
+    
         * One of approximately 20 students selected for undergraduate research projects in computational mathematics
         * Contributed heavily to code, final manuscript writing, and biweekly presentations
         * Attended [weekly seminars](https://icerm.brown.edu/summerug/2020/#summerschedule) and learned from faculty advisers and teaching assistants
