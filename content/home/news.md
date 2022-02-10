@@ -8,7 +8,11 @@ design:
   columns: '2'
   
 ---
-**December 2021:** We presented our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at [JMU SUMS](https://www.jmu.edu/mathstat/sums/index.shtml) and were accepted for the [National College Research Conference.](https://www.hcura.org/about-ncrc) I was also featured in an [MBU News article](https://marybaldwin.edu/news/2021/12/17/program-for-the-exceptionally-gifted-standout-katie-keegan-22-wins-national-attention/) and obtained my private pilot license on December 10!
+**February 2022:** We will be presenting our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [2022 Georgia Scientific Computing Symposium at Georgia Tech](https://math.gatech.edu/news/georgia-scientific-computing-symposium). Excited to visit Atlanta!
+
+**January 2022:** We presented our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [National College Research Conference.](https://www.hcura.org/about-ncrc)
+
+**December 2021:** We presented our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at [JMU SUMS](https://www.jmu.edu/mathstat/sums/index.shtml). I was also featured in an [MBU News article](https://marybaldwin.edu/news/2021/12/17/program-for-the-exceptionally-gifted-standout-katie-keegan-22-wins-national-attention/) and obtained my private pilot license on December 10!
 
 **November 2021:** Our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work has been submitted to SIURO and is [available on arXiv!](https://arxiv.org/abs/2111.00587) We will be presenting this work at the [Undergraduate Mathematics Symposium at UIC.](https://homepages.math.uic.edu/ums/) Our [Summer@ICERM 2020](https://icerm.brown.edu/summerug/2020/) work was also featured in an [article for SIAM News!](https://sinews.siam.org/Details-Page/a-modified-watermarking-scheme-based-on-the-singular-value-decomposition) Also grateful to receive a [JMM Undergraduate Travel Grant!](http://www.ams.org/programs/travel-grants/undergrad-tg)
 
