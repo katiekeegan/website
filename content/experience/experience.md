@@ -30,7 +30,7 @@ experience:
     location: Atlanta, GA
     date_start: '2021-05-01'
     date_end: '2021-07-30'
-    description: >-
+    description: |2-
         * One of approximately 20 students selected for undergraduate research projects in computational mathematics 
         * Contributed heavily to code, final manuscript writing, and presentations 
         * Attended [weekly seminars](http://www.math.emory.edu/site/cmds-reuret/summer2021/) on topics such as scientific writing, algorithmic bias, and public scholarship 
