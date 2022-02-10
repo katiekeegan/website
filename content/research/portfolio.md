@@ -6,7 +6,7 @@ headless: true  # This file represents a page section.
 
 weight: 65
 
-title: Projects
+title: Research Projects
 subtitle: 
 
 content:
