@@ -34,6 +34,16 @@ experience:
         * One of approximately 20 students selected for undergraduate research projects in computational mathematics 
         * Contributed heavily to code, final manuscript writing, and presentations 
         * Attended [weekly seminars](http://www.math.emory.edu/site/cmds-reuret/summer2021/) on topics such as scientific writing, algorithmic bias, and public scholarship 
+
+  - title: Undergraduate Research Fellow
+    company: University of Virginia
+    location: Charlottesville, VA
+    date_start: '2021-02-01'
+    date_end: ''
+    description: |2-
+        * Studying interpretability methods for COVID-19 lung CT image deep learning semantic segmentation under supervision of Professor Miaomiao Zhang 
+        * Comparing U-net performance to machine learning algorithm performance
+        * Exploring Grad-CAM performance on U-net model using Python implementation
     
     
   - title: Tutor
