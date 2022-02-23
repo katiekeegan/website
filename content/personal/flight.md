@@ -38,3 +38,8 @@ I've been fortunate to have spent around 2-3 months a year visiting my Japanese 
 - _Buddhism_
 - [_Japan and Globalization: A Cultural Approach_](https://www.kansaigaidai.ac.jp/asp/files/academics/course-syllabi/fall-semester-2021/CUS2F21.pdf)
 - [_Globalization, Culture, and Identity in Asia_](https://www.kansaigaidai.ac.jp/asp/files/academics/course-syllabi/spring-semester-2022/PSC1S22.pdf)
+- _Issues in Asia_
+
+## Other
+
+When I'm not flying or wishing that I was flying, I like to run and also have a SCUBA diving certificate! I like any means of traveling the world except for driving (not going to high school is giving me a good excuse for procrastinating on getting a driver's license) :)
