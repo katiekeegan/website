@@ -47,6 +47,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/katieekeegan
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=Unt8icQAAAAJ&gmla=AJsN-F6-N_0AUGZRnUUnfHb_nw5xJxWL9XhzIX1SmkEGzaccIQroXiHGRh1NkrRIsmmXVwLi8AjGD3VUc5Xqz1O91JiNoTOYjIsgw7bSrzKy_cFIvly9d7tmD2cE6_v2hnovAsDJU6w9#
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,7 +70,5 @@ Hi!
 I am a fourth-year undergraduate interested in applied math and computational data analysis. 
 
 I started college at 14 through the [Program for the Exceptionally Gifted](https://marybaldwin.edu/peg/) and will graduate college in May 2022 at age 18. 
-
-I am majoring in Applied Mathematics with minors in physics and Asian Studies, and will graduate having taken all math and physics course offerings at Mary Baldwin University.
 
 Thank you for visiting my website!
