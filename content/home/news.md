@@ -8,6 +8,11 @@ design:
   columns: '2'
   
 ---
+
+**April 2022:** Incredibly grateful to receive the [NSF Graduate Research Fellowship!](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList) My advisor at MBU has informed me that I may be one of the first MBU students to receive the GRFP. I'm beyond honored!
+
+**March 2022:** So grateful that our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work received 3rd place in the [Undergraduate Statistics Research Project competition!](https://www.causeweb.org/usproc/usresp/2021/fall/winners)
+
 **February 2022:** We will be presenting our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [2022 Georgia Scientific Computing Symposium at Georgia Tech](https://comp-physics.group/GSCS22/). Excited to visit Atlanta!
 
 **January 2022:** We presented our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [National College Research Conference.](https://www.hcura.org/about-ncrc)
